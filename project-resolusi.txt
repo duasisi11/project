@@ -1,0 +1,3 @@
+1. Mencari permasahan yang ada dilingkungan sekitar
+2. Membuat proses bisnis dan analisa dari permasalahan tersebut
+3. Membuat code program berdasarkan proses bisnis dan analisa 
