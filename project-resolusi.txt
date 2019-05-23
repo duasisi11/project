@@ -1,3 +1,5 @@
 1. Mencari permasahan yang ada dilingkungan sekitar
 2. Membuat proses bisnis dan analisa dari permasalahan tersebut
 3. Membuat code program berdasarkan proses bisnis dan analisa 
+4. Melakukan evaluasi dari pembuatan program
+5. Mengerjakan program dengan bantuan tim yang dibentuk
