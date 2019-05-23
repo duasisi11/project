@@ -1,0 +1,4 @@
+Rencana yang akan dilakukan:
+1. Membangun web site dengan framework CodeIgniter secara bersama.
+2. Menghasilkan produk yang bermanfaat untuk masyarakat.
+3. Menghasilkan profit pada kondisi tertentu.
